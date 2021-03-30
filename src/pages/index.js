@@ -12,6 +12,7 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <p>This is me changing things to test preview mode</p>
+    <p>This is me making a second change for preview mode</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
