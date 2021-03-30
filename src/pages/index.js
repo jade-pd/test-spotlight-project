@@ -14,6 +14,7 @@ const IndexPage = () => (
     <p>This is me changing things to test preview mode</p>
     <p>This is me making a second change for preview mode</p>
     <p>Next PR test preview</p>
+    <p>another change</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
